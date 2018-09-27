@@ -1,1 +1,1 @@
-This is a Git learning test.
+This is a Git study test.
